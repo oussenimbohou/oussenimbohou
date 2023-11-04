@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oussenimbohou
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate on any project based on java,PHP and any web project
 - 📫 How to reach me. I'm on Twitter and Telegram
 
